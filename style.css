@@ -1,4 +1,4 @@
-#header
+#header1
 {
     position: absolute;
     width: 1366px;
@@ -47,7 +47,7 @@
     position: absolute;
     width: 442px;
     height: 50px;
-    left: 462px;
+    left: 262px;
     top: 0px;
 }
 #submenu3
@@ -55,7 +55,23 @@
     position: absolute;
     width: 442px;
     height: 50px;
-    left: 924px;
+    left: 424px;
+    top: 0px;    
+}
+#submenu4
+{
+    position: absolute;
+    width: 442px;
+    height: 50px;
+    left: 624px;
+    top: 0px;    
+}
+#submenu5
+{
+    position: absolute;
+    width: 442px;
+    height: 50px;
+    left: 824px;
     top: 0px;    
 }
 #content
